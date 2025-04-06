@@ -37,10 +37,10 @@
 <br> <br>
 <p align="center">
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI1b2x6YnowMzlxeWR3bnlrbjFoNW1yOGNsZjd0azYwNXVkZ2htOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI1b2x6YnowMzlxeWR3bnlrbjFoNW1yOGNsZjd0azYwNXVkZ2htOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" height="250" />
 
 
-  <img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" height="200" />
+  <img src="https://media.giphy.com/media/llDQjVIHqiXkeIJgrK/giphy.gif" height="250" />
 </p>
 <br><br>
 
