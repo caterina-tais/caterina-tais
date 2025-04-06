@@ -30,7 +30,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=caterina-tais&repo=Web-Helados&theme=radical" alt="Web-Helados Repo" />
     </a>
     <a href="https://github.com/caterina-tais/GestorContraseñas">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caterina-tais&repo=TP-N-3-React---Caterina-De-Franchis&theme=radical"alt="TP-N-3-React Repo" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=joacoglsk&repo=Proyecto-Final-Curso&theme=radical"alt="Proyecto-Final-Curso Repo" />
     </a>
   </p>
 </div>
